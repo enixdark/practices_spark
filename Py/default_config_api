@@ -1,0 +1,12 @@
+# setup api for twitter
+CONSUMER_KEY    =   ''
+CONSUMER_SECRET =   ''
+OAUTH_TOKEN =   ''
+OAUTH_TOKEN_SECRET  =   ''
+
+# setup api for github
+
+
+# setup api for meetup
+
+MEETUP_ACCESS_TOKEN = "" 

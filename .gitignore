@@ -89,3 +89,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# ingore file for api
+config_api 
